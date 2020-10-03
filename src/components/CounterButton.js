@@ -8,6 +8,8 @@ class CounterButton extends PureComponent {
     }
   }
 
+  // this will no longer be needed if we are extending
+  // with PureComponent above!
   shouldComponentUpdate(nextProps, nextState) {
     if (this.state.count !== nextState.count) {
       return true
