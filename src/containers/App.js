@@ -21,11 +21,17 @@ const mapStateToProps = (state) => {
 const mapDispatchToProps = (dispatch) => {
   return {
     onSearchChange: (event) => dispatch(setSearchField(event.target.value)),
-    onRequestRobots: () => dispatch(requestRobots())
+    onRequestRobots: () => requestRobots(dispatch)
   }
 }
 
 class App extends Component {
+  constructor() {
+    super()
+    this.state = {
+      count: 1
+    }
+  }
   componentDidMount() {
     this.props.onRequestRobots();
   }
@@ -37,7 +43,7 @@ class App extends Component {
     })
     return (
       <div className='tc'>
-        <Header />
+        <Header count={this.state.count}/>
         <SearchBox searchChange={onSearchChange}/>
         <Scroll>
           { isPending ? <h1>Loading</h1> :
