@@ -1,7 +1,26 @@
 {
-  "main.css": "static/css/main.f2206d50.css",
-  "main.css.map": "static/css/main.f2206d50.css.map",
-  "main.js": "static/js/main.34465e3f.js",
-  "main.js.map": "static/js/main.34465e3f.js.map",
-  "static/media/SEGA.woff": "static/media/SEGA.12a3db8b.woff"
+  "files": {
+    "main.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/main.29f57814.chunk.css",
+    "main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/main.b7d83dbb.chunk.js",
+    "main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/main.b7d83dbb.chunk.js.map",
+    "runtime-main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/runtime-main.41ebddfd.js",
+    "runtime-main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/runtime-main.41ebddfd.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.28bcf75c.chunk.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/2.28bcf75c.chunk.js",
+    "static/js/2.28bcf75c.chunk.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/2.28bcf75c.chunk.js.map",
+    "index.html": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/index.html",
+    "service-worker.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/service-worker.js",
+    "service-worker.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/service-worker.js.map",
+    "static/css/2.6d7c7915.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.29f57814.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/main.29f57814.chunk.css.map",
+    "static/js/2.28bcf75c.chunk.js.LICENSE.txt": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/2.28bcf75c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41ebddfd.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.28bcf75c.chunk.js",
+    "static/css/main.29f57814.chunk.css",
+    "static/js/main.b7d83dbb.chunk.js"
+  ]
 }
